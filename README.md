@@ -3,7 +3,7 @@
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [github.com/Bubuthegirl](https://github.com/Bubuthegirl)
 - 💬 Pergunte-me sobre **Java, JavaScript, Analista de dados**
-- 📫 Como me encontrar: **brunacl.andrade@hotmail.com**
+- 📫 Como me encontrar: **softbru.business@hotmail.com**
 - 👨🏼‍🎓 Cursando **Engenharia de Software**
 
 ## Connect with me:
